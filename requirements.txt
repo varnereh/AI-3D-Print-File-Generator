@@ -1,0 +1,11 @@
+PyQt5
+pyqtgraph
+numpy
+trimesh
+PyOpenGL
+PyOpenGL_accelerate
+gradio_client
+scipy
+
+
+# you can run this file by typing pip install -r requirements.txt in the commandline
